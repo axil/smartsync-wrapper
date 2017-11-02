@@ -1,0 +1,1 @@
+python.exe "C:\Program Files\TortoiseHg\smartsync.py"  %*
